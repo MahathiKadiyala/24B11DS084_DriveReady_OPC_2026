@@ -140,9 +140,7 @@ These functions use sample data. They do not retrieve live service prices or con
 
 ## Files
 
-- `Agentic_AI_DAY-3.ipynb` – Day 3 concepts, LangChain implementation and practical exercises.
-- `ev_tests.csv` – EV customer questions used for assistant testing.
-- `tests.csv` – Bakery assistant test cases.
+- `Agentic_AI_DAY-3.ipynb` – Contains Day 3 concepts, LangChain implementation, bakery assistant testing, EV assistant practice and Python functions for service operations.
 
 ## Technologies Used
 
